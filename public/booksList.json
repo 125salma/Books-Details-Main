@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Echo",
+      "author": "Clara Hughes",
+      "image": "https://img.favpng.com/7/11/10/the-dating-playbook-for-men-a-proven-7-step-system-to-go-from-single-to-the-woman-of-your-dreams-amazon-com-png-favpng-nG8vTXjmsnbwmzcvgfhPz1s6m.jpg",
+      "review": "A captivating psychological thriller that keeps you on edge from start to finish. The characters are intricately developed, and the plot twists are genuinely surprising.",
+      "totalPages": 345,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Thriller", "Science"],
+      "publisher": "Harper & Co.",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Whispers of the Desert",
+      "author": "Rafael Moreno",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71p3icIyPmL._AC_UL600_SR600,600_.jpg",
+      "review": "A beautiful narrative set in the Arabian desert, exploring the themes of love, loss, and resilience. The descriptive writing immerses you in the setting.",
+      "totalPages": 410,
+      "rating": 4.5,
+      "category": "Historical Fiction",
+      "tags": ["Romance", "Adventure"],
+      "publisher": "DesertRose Publishing",
+      "yearOfPublishing": 2021
+    },
+    {
+      "bookId": 3,
+      "bookName": "Digital Fortress",
+      "author": "Dan Brown",
+      "image": "https://suhailacademy.com/wp-content/uploads/2019/09/168-The-Quantum-Enigma.png",
+      "review": "A fast-paced, tech-savvy thriller that dives into the world of cryptography and government secrecy. Full of twists and a gripping storyline.",
+      "totalPages": 384,
+      "rating": 4.6,
+      "category": "Thriller",
+      "tags": ["Tech", "Thriller"],
+      "publisher": "St. Martin's Press",
+      "yearOfPublishing": 1998
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Art of Mindfulness",
+      "author": "Emily Watson",
+      "image": "https://suhailacademy.com/wp-content/uploads/2019/09/168-The-Quantum-Enigma.png",
+      "review": "A calming and insightful guide to living mindfully. This book provides practical exercises and techniques to reduce stress and improve mental clarity.",
+      "totalPages": 275,
+      "rating": 4.9,
+      "category": "Self-Help",
+      "tags": ["Mindfulness", "Mental Health"],
+      "publisher": "Beacon Books",
+      "yearOfPublishing": 2020
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Quantum Enigma",
+      "author": "Dr. Lisa Morgan",
+      "image": "https://suhailacademy.com/wp-content/uploads/2019/09/168-The-Quantum-Enigma.png",
+      "review": "A fascinating exploration of quantum physics and its philosophical implications. The author makes complex topics accessible to the general reader.",
+      "totalPages": 322,
+      "rating": 4.8,
+      "category": "Science",
+      "tags": ["Quantum", "Science"],
+      "publisher": "Orbit Scientific",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Lost Kingdom",
+      "author": "James Monroe",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71p3icIyPmL._AC_UL600_SR600,600_.jpg",
+      "review": "An exhilarating journey into an ancient kingdom lost in the annals of time. A perfect mix of historical facts and adventurous storytelling.",
+      "totalPages": 480,
+      "rating": 4.4,
+      "category": "Adventure",
+      "tags": ["History", "Adventure"],
+      "publisher": "Monarch Publishing",
+      "yearOfPublishing": 2022
+    }
+  ]
+  
